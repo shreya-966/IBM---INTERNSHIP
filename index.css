@@ -16,7 +16,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: url(/image/bg3.jpg);
+    background: url(bg3.jpg);
     position: relative;
     border-radius: 1px;
     height: 85px;
@@ -93,7 +93,7 @@ nav ul li a:hover, .signup:hover {
 
 /* Section1 - front page */
 .front {
-    background: url(/image/bg3.jpg);
+    background: url(bg3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
